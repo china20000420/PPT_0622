@@ -1,0 +1,26 @@
+# Temp files
+_tf.png
+~$*.pptx
+
+# All old PPT versions (keep only 数据拼接策略_终稿.pptx via explicit add)
+PPT_*.pptx
+*_v[0-9].pptx
+*_final.pptx
+*_最终版.pptx
+*_完整版.pptx
+*_公式优化版.pptx
+最终版_*.pptx
+大模型*.pptx
+test*.pptx
+
+# Old Python scripts (keep only make_ppt.py)
+create_ppt.py
+create_final_ppt.py
+create_v*.py
+extract_figures.py
+
+# Python
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
